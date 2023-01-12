@@ -1,4 +1,4 @@
 StudentID: 2213111459
 Fullname: Sippawit Yenphan
 AKA: alphaf91
-ClassDetail : Class and Object
+ClassDetail : Wrap up lab sheet
